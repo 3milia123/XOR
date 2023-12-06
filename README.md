@@ -1,2 +1,2 @@
-XOR
-#Tugas Vigenere Chiper berbasis 8 bit
+Program Sederhana Vigenere Chiper Berbasiskan Bit Menggunakan Fungsi XOR
+
